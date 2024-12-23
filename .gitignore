@@ -1,0 +1,12 @@
+/Admin/bin/Debug
+/Admin/obj/Debug
+/Client/bin/Debug
+/Client/obj/Debug
+/Elsa.Repository.Test/bin/Debug/
+/Elsa.Repository.Test/obj/Debug
+/api/packages
+/cb.entities/bin/Debug
+/cb.entities/obj/Debug
+/cb.repository/bin/Debug
+/cb.repository/obj/Debug
+/api/.vs/api/FileContentIndex
